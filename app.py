@@ -7,7 +7,7 @@ import pandas as pd
 st.set_page_config(page_title="Physical Activity Probability", layout="centered")
 
 # Title and description
-st.title("🏃‍♂️ Physical Activity Probability Estimator")
+st.title("🏃‍♂️ PWSCI Physical Activity Probability Estimator")
 st.markdown("Estimate the likelihood of being physically active based on age, gender, and health status.")
 
 st.divider()
